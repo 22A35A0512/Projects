@@ -29,7 +29,7 @@ class BankAccount {
 }
 
 
-public class Task1  {
+public class Project1  {
     public static void main(String[] args) {
         BankAccount account = new BankAccount("Srinuvasu", "1234567890", 1000);
         account.displayBalance(); 
