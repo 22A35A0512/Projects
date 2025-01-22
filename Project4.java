@@ -83,7 +83,7 @@ class Grade {
     }
 }
 
-public class Task4 {
+public class Project4 {
     public static void main(String[] args) {
         // Create students
         Student student1 = new Student("S001", "John");
