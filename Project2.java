@@ -104,7 +104,7 @@ class Member {
     }
 }
 
-public class Task2 {
+public class Project2 {
     public static void main(String[] args) {
         // Creating books
         Book book1 = new Book("Title 1", "Author 1", "ISBN 1");
