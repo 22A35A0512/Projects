@@ -79,7 +79,7 @@ class User {
     }
 }
 
-public class Task3 {
+public class Project3 {
     public static void main(String[] args) {
         // Create some products
         Product product1 = new Product("Phone", 500, 10);
